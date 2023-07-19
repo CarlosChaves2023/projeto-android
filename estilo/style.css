@@ -50,7 +50,7 @@ main a:hover{
 
 header{
     background-color: var(--cor3);
-    min-height: 80px;
+    min-height: 35px;
     text-align: center;
 }
 
@@ -67,7 +67,7 @@ header > p{
     font-size: 1.2em;
     max-width: 500px;
     margin: auto;
-    padding: 0px 10px 0px 10px;
+    padding: 0px 10px 30px 10px;
 
 }
 
